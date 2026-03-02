@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hallo, Ik ben Jayden. Ik werk nu aan Laravel. Ik heb ook met HTML&CSS, PHP, OOP en JavaScript gewerkt. Ik leer nu meer Laravel want ik heb een project waarbij ik laravel nodig heb. Ik leer ook nu Python voor mijn keuzedeel.
+Hallo, Ik ben Jayden, 18 jaar oud. Ik studeer op Het Techniek College Rotterdam, ik doe de studie software developer. Ik ben goed in eigenlijk beetje alles waarmee ik heb gewerkt, maar ik vind HTML&CSS het fijnst. Ik werk nu aan Laravel. Ik heb ook met HTML&CSS, PHP, OOP en JavaScript gewerkt. Ik leer nu meer Laravel want ik heb een project waarbij ik laravel nodig heb. Ik leer ook nu Python voor mijn keuzedeel.
 
 
 # 💻 Tech Stack:
